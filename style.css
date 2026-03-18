@@ -1,0 +1,29 @@
+body{
+    background-color: white;
+    text-align: center;
+    margin: 10px auto;
+}
+.me{
+    color: blue;
+}
+p{
+    color: blue;
+}
+.links a{
+    display: block;
+    border-radius: 8px;
+    border: solid 2px white;
+    width: 220px;
+    margin: 10px auto;
+    padding: 12px;
+    background-color: red;
+    color: white;
+}
+.links a:hover{
+    background-color: green;
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
