@@ -4,7 +4,7 @@ A modern and responsive Link-in-bio web application inspired by Linktree. Built 
 
 
 ## 🚀 Live Demo
-👉 https://aramizkingh.github.io/project-2-linktree/
+👉 https://aramizkingh.github.io/linktree-clone/
 
 
 ## ✨ Features
