@@ -19,7 +19,7 @@ A modern and responsive Link-in-bio web application inspired by Linktree. Built 
 
 ## 🖼️ Preview
 
-![Screenshot](screenshot.png)
+![Project Screenshot](./screenshot.png)
 
 
 ## 🛠️ Tech Stack
@@ -36,7 +36,7 @@ project-2-linktree/
 │── index.html
 │── style.css
 │── script.js
-│── assets/
+│── image/
 │   └── screenshot.png
 
 
