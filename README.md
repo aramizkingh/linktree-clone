@@ -19,7 +19,7 @@ A modern and responsive Link-in-bio web application inspired by Linktree. Built 
 
 ## 🖼️ Preview
 
-![Project Screenshot](./screenshot.png)
+![Project Screenshot](./image/screenshot.png)
 
 
 ## 🛠️ Tech Stack
